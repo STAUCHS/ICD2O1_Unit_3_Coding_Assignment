@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------
-# Name:		    Minutes
+# Name:         Minutes
 # Purpose:		
 # Author:		Last Name. First Initial
 # Created:		dd/mm/yyyy
