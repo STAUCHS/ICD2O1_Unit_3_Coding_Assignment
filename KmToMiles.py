@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # Name:         Km to Miles
 # Purpose:		
-# Author:		Last Name. First Initial
-# Created:		dd/mm/yyyy
+# Author:       Last Name. First Initial
+# Created:      dd/mm/yyyy
 #-------------------------------------------------------------------------
 
