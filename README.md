@@ -1,10 +1,11 @@
-# 3.4.1 Math Exercises Assignment
+# Unit 3 In-Class Coding Assignment
 
-## Learning Objectives
-In this assignment, you will apply your knowledge of math operators and the math library to create some more useful programs.
+Write the solution code to your assigned problem in the appropriate file (i.e. Problem1.py and Problem2.py) <br>
+Make sure you follow proper programming style conventions in your solutions.
 
-### STEP 1
-Go to [3.4.1 Math Exercises Assignment](https://docs.google.com/document/d/1v_VZMioOeiSjG3Ue0waELcTh-KiVzBxnCF6BwEfTbvM/edit?usp=sharing)
+Commit and push your code to github to submit your work. If you are get a prompt indicating that your username or useremail needs to be set, enter the following in the terminal:
 
-### STEP 2
-For each question, find the corresponding file in this repository and write your solution there.
+git config --global user.name yourGithubUsername <br>
+git config --global user.email yourGithubAccountEmail
+
+Make sure to click enter after each line and replace "yourGithubUsername" and "yourGithubAccountEmail" with your own username and email you used for GitHub.

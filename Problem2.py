@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
-# Name:         Area of Rectangle
-# Purpose:      
+# Name:         
+# Purpose:		
 # Author:       Last Name. First Initial
 # Created:      dd/mm/yyyy
 #-------------------------------------------------------------------------
